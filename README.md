@@ -1,7 +1,7 @@
-# gpm-parks
-GPM Parks 
+# gpm-services
+GPM Services 
 
-gpm-parks.ma
+gpm-services.ma
 
 ## Local Development with Docker
 
