@@ -1,7 +1,7 @@
-# gpm-services
+# gp-services
 GPM Services 
 
-gpm-services.ma
+gp-services.ma
 
 ## Local Development with Docker
 
