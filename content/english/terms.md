@@ -7,7 +7,7 @@ description: "GPM Services maintains strict ownership over all original content 
 
 ### **1. General Conditions**
 
-By accessing the website **gpm-services.ma**, operated by **GPM Services** (an entity of the **GPM Holding** group, **gp-maroc.ma**), you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
+By accessing the website **gp-services.ma**, operated by **GPM Services** (an entity of the **GPM Holding** group, **gp-maroc.ma**), you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
 
 ### **2. Intellectual Property Rights**
 

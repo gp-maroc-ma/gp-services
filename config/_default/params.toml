@@ -1,7 +1,7 @@
 ########################### Default parameters ######################
-logo = "images/logo-gmp-parks.jpg"
+logo = "images/logo.png"
 logo_width = "150px"
-logo_footer = "images/logo-gmp-parks.jpg"
+logo_footer = "images/logo.png"
 favicon = "images/favicon.png"
 page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
@@ -11,7 +11,7 @@ description = "GPM Services"
 author = "GPM Services"
 
 # contact form action
-contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwhzOaX9eKvI-Ij92LF9ZBzf_h8jOg4ALLyyIUYOJNYtzxg/formResponse" # contact form works with https://formspree.io
+contact_form_action = "#" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX

@@ -7,7 +7,7 @@ description: "GPM Services conserve la propriété stricte de tout le contenu or
 
 ### **1. Conditions Générales**
 
-En accédant au site web **gpm-services.ma**, exploité par **GPM Services** (une entité du groupe **GPM Holding**, **gp-maroc.ma**), vous acceptez d'être lié par les présentes Conditions d'Utilisation et toutes les lois et réglementations applicables. Si vous n'acceptez pas l'une de ces conditions, il vous est interdit d'utiliser ou d'accéder à ce site.
+En accédant au site web **gp-services.ma**, exploité par **GPM Services** (une entité du groupe **GPM Holding**, **gp-maroc.ma**), vous acceptez d'être lié par les présentes Conditions d'Utilisation et toutes les lois et réglementations applicables. Si vous n'acceptez pas l'une de ces conditions, il vous est interdit d'utiliser ou d'accéder à ce site.
 
 ### **2. Droits de Propriété Intellectuelle**
 
