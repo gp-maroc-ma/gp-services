@@ -27,7 +27,7 @@ consent_allow_all = 'Allow all'
 consent_save_preferences = 'Save preferences'
 
 # footer content
-footer_content = "GPM Services - "
+footer_content = "GPM Services - Operations and Maintenance (O&M) which includes panel cleaning, electrical inspections, inverter maintenance, performance monitoring, and fault repair. <br><br>Regular cleaning restores performance and extends asset life, particularly in arid environments."
 copyright = "Copyright © GPM Services, %s-year All rights reserved"
 
 
@@ -60,6 +60,6 @@ consent_allow_all = 'Tout autoriser'
 consent_save_preferences = 'Enregistrer'
 
 # footer content
-footer_content = "GPM Services - "
+footer_content = "GPM Services - Les opérations et la maintenance (O&M) comprennent le nettoyage des panneaux, les inspections électriques, la maintenance des onduleurs, la surveillance des performances et la réparation des pannes. <br><br>Un nettoyage régulier permet de rétablir les performances et de prolonger la durée de vie des équipements, notamment en milieu aride."
 # copyright
 copyright = "Copyright © GPM Services, %s-year Tous droits réservés"
